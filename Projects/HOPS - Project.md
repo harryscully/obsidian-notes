@@ -9,7 +9,7 @@ whether everything has been considered?
 Move to thicker font, green? Simpler logo
 
 # Weekly Meetings
-- [[2026-10-05]]
+- [[2026-10-05 HOPS meeting with Freddie]]
 
 # Stock
 - Check Scott's vs snapshot 
