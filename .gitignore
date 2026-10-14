@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+.Trash/
+
+# Obsidian volatile state (changes every click, causes noise)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Trash
+.trash/
+
+# Plugin bundles are re-downloadable; keep plugin settings (data.json) and the plugin list
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/styles.css
+.obsidian/plugins/*/manifest.json
+
+# Private notes (uncomment/add as needed)
+# Private/
+# Journal/
+
+# Large attachments (or use Git LFS instead)
+# Attachments/

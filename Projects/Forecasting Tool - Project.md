@@ -1,0 +1,10 @@
+- Look at for a product, what the packaging is and what the lead time for that would be, i.e. sauces might be 3 weeks but the printed pots are 11 weeks
+- 52 week forecast needs value too
+- Planned vs confirmed promotions
+- Add buy price for goods so annual volume can also be annual spend
+- Forecast 52 weeks to be editable
+- Promotional uplifts added 
+- Units of measure and BOM
+- Consider wastage ie 1-2% of pinsas might be no good - so need to increase order by that equivalent
+- Seasonality
+- 
