@@ -1,3 +1,17 @@
+## Overview
+_One or two lines: what Forecasting Tool is, who it's for, current status._
+
+## Links
+_Add repo / app link_
+
+## This week
+```tasks
+not done
+tags include #forecasting
+sort by due
+```
+
+## Backlog
 - Look at for a product, what the packaging is and what the lead time for that would be, i.e. sauces might be 3 weeks but the printed pots are 11 weeks
 - 52 week forecast needs value too
 - Planned vs confirmed promotions

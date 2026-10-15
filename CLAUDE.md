@@ -10,6 +10,7 @@ Personal Obsidian vault for work and project tracking. Plain markdown; edit with
 
 ## Conventions
 - Tasks use the Obsidian Tasks plugin format: `- [ ] text 📅 YYYY-MM-DD ⏳ YYYY-MM-DD 🔺/🔼` and `✅ date` when done. Preserve these emoji exactly.
+- **Task tags** (fixed list, one per task written in a daily note): `#HOPS`, `#shift-report`, `#sales-tracker`, `#forecasting`, `#carbon`, `#admin`. Tasks in project notes get their project from the file; each project hub has a `tasks` query on its tag. Flag misspelt, missing or unlisted tags in audits.
 - Link projects with `[[Name - Project]]`; link days with `[[YYYY-MM-DD]]`.
 - Project hub notes link to GitHub issues (e.g. `harryscully/hops-web#NNN`).
 
@@ -22,5 +23,6 @@ Personal Obsidian vault for work and project tracking. Plain markdown; edit with
 ## What I want from audits
 - Orphan notes, broken `[[links]]`, duplicate topics, inconsistent naming.
 - Tasks: overdue, undated, or carried over repeatedly across daily notes.
+- Open tasks in daily notes with no tag, or with a tag not in the list above.
 - Project hubs that are stale or have open questions never followed up in daily notes.
 - Patterns in how I use the vault (git history, task completion rate, what I capture but never process) and concrete tips to be more efficient, ideally the top 3 changes by time saved.
