@@ -1,13 +1,11 @@
-Role: _fill in_
-
 ## Open tasks
 ```tasks
 not done
-description includes [[Evan]]
+description includes [[Kevin]]
 sort by due
 ```
 
 ## Mentions
 ```query
-"[[Evan]]"
+"[[Kevin]]" -path:People
 ```

@@ -1,5 +1,3 @@
-Role: _fill in_
-
 ## Open tasks
 ```tasks
 not done
@@ -9,5 +7,5 @@ sort by due
 
 ## Mentions
 ```query
-"[[Charlie Ugo]]"
+"[[Charlie Ugo]]" -path:People
 ```
