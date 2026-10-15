@@ -2,7 +2,7 @@ Overview:
 
 ## To do 
 - [x] Send Charlie pdf with explanations of equations etc.
-- [ ] Look at Beetroot pallet (3rd / 5th October - 140 mins??)
+- [ ] Look at Beetroot pallet (3rd / 5th October - 140 mins??) 📅 2026-10-16
 - Check CU gets copied in on Monday email
 
 ## Web tool
