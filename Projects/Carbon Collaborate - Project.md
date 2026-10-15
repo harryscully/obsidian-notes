@@ -9,36 +9,32 @@ Data checklists are linked under each company below.
 not done
 tags include #carbon
 sort by due
+hide toolbar
+hide task count
 ```
-
-## Who's who
-- HS = Harry
-- FU, CU, LR, NV, LH, CN = _fill in_
-- Others by first name: Nico, Lee, Lorraine, Florin, Nona, Liz
-
 ## Data requests
 # Ugo Foods
 [Checklist](https://ugogroup.sharepoint.com/:x:/r/sites/CSR/_layouts/15/Doc.aspx?sourcedoc=%7B429F2FA8-3A32-401A-BF50-A2AE7B2B4CCE%7D&file=Ugo%20Foods%20Data%20Checklist.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1)
 ## Shared
 1. For **electrics, gas & water** - save and rename the bills into the folder
-2. FU to get **floorplan** from CU and then colour code
-3. **Refrigerants** -> ask Lorraine for service records
-4. CN for **Wastage** info
-5. ==HS to clarify **Goods In** vs **Product Goods In** (UgoSys tables)==
-6. Highlight **packaging** and what's shared -> HS and FU to go through
-7. Email NV, LR, LH, CN, CU about **vehicle**
-8. Ask NV / CU about **EV Charging**
+2. [[Freddie]] to get **floorplan** from [[Charlie Ugo]] and then colour code
+3. **Refrigerants** -> ask [[Lorraine]] for service records
+4. [[Charlie Newman]] for **Wastage** info
+5. ==Clarify **Goods In** vs **Product Goods In** (UgoSys tables)==
+6. Highlight **packaging** and what's shared -> Me and [[Freddie]] to go through
+7. Email [[Nico]], [[Lee]], [[Lorraine]], [[Charlie Newman]], [[Charlie Ugo]] about **vehicle**
+8. Ask [[Nico]] / [[Charlie Ugo]] about **EV Charging**
 
 ## UFG only
-1. Ask LR about **physical expenses**
-2. LR / CU about **total expenses** that *aren't* Goods In
+1. Ask [[Lee]] about **physical expenses**
+2. [[Lee]] / [[Charlie Ugo]] about **total expenses** that *aren't* Goods In
 3. ==HS **product** list -> split into **produced vs bought in**==
-4. Find out from Liz / Lorraine / CU about **gas**
-5. **Pasta usage for brewing** Lee / FU
+4. Find out from Liz / [[Lorraine]] / [[Charlie Ugo]] about **gas**
+5. **Pasta usage for brewing** [[Lee]] / [[Freddie]]
 6. **Deliveries out** and by who, dates
-7. LR for **sage export for all sales**
-8. **Travel / Accom** -> Lee for expenses / mileage / flights, Lorraine for hotels / accom
-9. Nico for **headcount**
+7. [[Lee]] for **sage export for all sales**
+8. **Travel / Accom** -> [[Lee]] for expenses / mileage / flights, [[Lorraine]] for hotels / accom
+9. [[Nico]] for **headcount**
 
 ---
 ## Beyond Belief
@@ -47,16 +43,16 @@ sort by due
 See above
 
 ## BBB only
-1. **Purchase ledger** -> Lee (mostly beer in + expenses)
-2. **Brewing volumes** -> Florin
-3. **External brewing** -> Anonymise i.e. Brewer A, B, C etc. (Freddie & Benn)
+1. **Purchase ledger** -> [[Lee]] (mostly beer in + expenses)
+2. **Brewing volumes** -> [[Florin]]
+3. **External brewing** -> Anonymise i.e. Brewer A, B, C etc. ([[Freddie]] & [[Benn]])
 4. ==**Surplus materials** -> Goods In (HS)==
-5. **Brewing by-products** -> Florin & Nico
-6. **Third-party transfer** -> Nona (Palletways, InExpress, DHL etc)
-7. **Sales / Outbound orders** -> Lee (sage export?) JS might be on Ugo account?
-8. **Travel & Accomodation** -> Lee
+5. **Brewing by-products** -> [[Florin]] & [[Nico]]
+6. **Third-party transfer** -> [[Nona]] (Palletways, InExpress, DHL etc)
+7. **Sales / Outbound orders** -> [[Lee]] (sage export?) JS might be on Ugo account?
+8. **Travel & Accomodation** -> [[Lee]]
 9. **New-project dates** N/A
-10. **Headcount** -> Nico
+10. **Headcount** -> [[Nico]]
 
 ---
 
@@ -66,8 +62,8 @@ See above
 	- BBB
 	- Shared
 	- Classify packaging
-- **FU** to ask following people for:
-	- **Nico** -> Headcount for UFG / BBB / Shared
-	- **Lee** -> Electricity, Water & Gas
-	- **CU** -> Floorplan
-	- **Lorraine** -> Refrigerants info
+- **[[Freddie]]** to ask following people for:
+	- **[[Nico]]** -> Headcount for UFG / BBB / Shared
+	- **[[Lee]]** -> Electricity, Water & Gas
+	- **[[Charlie Ugo]]** -> Floorplan
+	- **[[Lorraine]]** -> Refrigerants info

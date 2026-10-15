@@ -9,13 +9,14 @@ _Add repo / app link_
 not done
 tags include #shift-report
 sort by due
+hide toolbar
+hide task count
 ```
 
 ## Notes
 ### To do
-- [x] Send Charlie pdf with explanations of equations etc.
+- [x] Send [[Charlie Ugo]] pdf with explanations of equations etc.
 - [ ] Look at Beetroot pallet (3rd / 5th October - 140 mins??) 📅 2026-10-16 #shift-report
-- Check CU gets copied in on Monday email
 
 ### Web tool backlog
 - Why was available time higher on L4 vs others?

@@ -14,5 +14,14 @@
       ],
       "key": "ArrowDown"
     }
-  ]
+  ],
+  "advanced-cursors:add-next-match-to-selections": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:delete-paragraph": []
 }

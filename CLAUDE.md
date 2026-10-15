@@ -5,7 +5,9 @@ Personal Obsidian vault for work and project tracking. Plain markdown; edit with
 ## Structure
 - `Daily Notes/YYYY-MM-DD.md` - one per day. Tasks at top, then a `## [[Project - Project]]` section per project worked on, plus notes.
 - `Projects/<Name> - Project.md` - one hub note per project (HOPS, Shift Report, Sales Tracker, Forecasting Tool, Carbon Collaborate). Daily notes link back to these.
-- `Daily Note Template.md` - template used for new daily notes (Top 3, Due or overdue tasks query, Notes, End of day).
+- `Meetings/YYYY-MM-DD <title>.md` - meeting notes, linked from the relevant project hub.
+- `People/<First name>.md` - one note per recurring person, with a tasks query and a mentions search. Link people with `[[Name]]` (first name only) in meeting notes and tasks; use links, not tags, for people.
+- `Templates/Daily Note Template.md` - template used for new daily notes (Top 3, Due or overdue tasks query, Notes, End of day).
 - `Mac to do.md` - misc personal to-dos.
 
 ## Conventions

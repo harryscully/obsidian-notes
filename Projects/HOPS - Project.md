@@ -25,6 +25,6 @@ Move to thicker font, green? Simpler logo
 - [[2026-10-05 HOPS meeting with Freddie]]
 
 ### Stock
-- Check Scott's vs snapshot 
+- Check [[Scott]]'s vs snapshot 
 - Add graph for snapshot (added to GH?)
-- How to keep track of stock at bonded warehouse - what's the process, talk with Nico and Benn about that platform
+- How to keep track of stock at bonded warehouse - what's the process, talk with [[Nico]] and [[Benn]] about that platform

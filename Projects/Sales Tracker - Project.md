@@ -9,6 +9,8 @@ _Add repo / app link_
 not done
 tags include #sales-tracker
 sort by due
+hide toolbar
+hide task count
 ```
 
 ## Backlog
