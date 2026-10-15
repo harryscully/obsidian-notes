@@ -18,7 +18,7 @@ Personal Obsidian vault for work and project tracking. Plain markdown; edit with
 - Project hub notes link to GitHub issues (e.g. `harryscully/hops-web#NNN`).
 
 ## Daily routine
-- **Morning:** create today's note, read the "Due or overdue" query, pick up to three tasks for today. Existing tasks are chosen by giving them a scheduled date of today (⏳), never by copying or retyping them. New tasks that don't exist yet are written straight into Top 3. A task lives in exactly one place.
+- **Morning:** create today's note, read the "Due or overdue" query, pick up to three tasks for today. Existing tasks are chosen by giving them a scheduled date of today (⏳), never by copying or retyping them. New tasks that don't exist yet are written straight into the daily note. The Focus query shows tasks scheduled on (or completed on) that note's date, so done tasks stay visible and each past day is a record. A task lives in exactly one place.
 - **During the day:** tick tasks wherever they appear (daily note, project hub or query).
 - **End of day:** "Done" is a few words. "Carry over / blocked" holds only what a task line can't say (where I stopped, who I'm waiting on, decisions needed). Unfinished tasks reappear in tomorrow's query automatically, so don't list or copy them. Delete tasks I won't do, or give them a later date.
 - **Weekly (Friday):** open `Home.md`, clear Overdue, make sure Untagged is empty, review Waiting or scheduled later.
