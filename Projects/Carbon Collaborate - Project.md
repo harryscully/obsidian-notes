@@ -1,5 +1,5 @@
 ## Overview
-_One or two lines: what Carbon Collaborate is, who it's for, current status._
+Project to measure carbon emissions for both BBB and UFG. Following both companies' financial years May-Apr
 
 ## Links
 Data checklists are linked under each company below.

@@ -2,7 +2,7 @@
 [Roadmap tracking GH](https://github.com/harryscully/hops-web/issues/260)
 
 ## Overview
-_One or two lines: what HOPS is, who it's for, current status._
+CRM for Beyond Belief Brewing
 
 ## This week
 ```tasks
@@ -23,6 +23,7 @@ Move to thicker font, green? Simpler logo
 
 ### Weekly Meetings
 - [[2026-10-05 HOPS meeting with Freddie]]
+- [[2026-10-15 HOPS meeting with Freddie]]
 
 ### Stock
 - Check [[Scott]]'s vs snapshot 

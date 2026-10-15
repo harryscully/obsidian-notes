@@ -1,5 +1,5 @@
 ## Overview
-_One or two lines: what Sales Tracker is, who it's for, current status._
+Website which hosts sales data for UFG going back to 2019.
 
 ## Links
 _Add repo / app link_
@@ -16,4 +16,4 @@ hide task count
 ## Backlog
 Builds
 - Add way to export all invoices for filtered date
-- 
+- Compare products within a company

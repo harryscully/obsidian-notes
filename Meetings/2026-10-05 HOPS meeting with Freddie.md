@@ -1,7 +1,7 @@
-# HOPS Meeting with Freddie [[HOPS - Project]]
 Attendees: [[Freddie]]
+Project: [[HOPS - Project]]
 
-Discussed:
+## Discussed:
 - Email [[Ryan]] & [[Benn]] about pipelines and stages
 	- Been a while since we looked at the stage names, requirements, pipelines themselves - maybe they are a bit stale. Anything missing / redundant
 - Pipeline page - make there more incentive to move and swipe across

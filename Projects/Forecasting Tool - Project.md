@@ -1,5 +1,5 @@
 ## Overview
-_One or two lines: what Forecasting Tool is, who it's for, current status._
+Place for the commercial team to view 52 weeks forecast, add predicted and agreed promotions, view past promotional uplifts, see volumes per raw material to agree pricings with suppliers, re-ordering view for the logistics team. 
 
 ## Links
 _Add repo / app link_

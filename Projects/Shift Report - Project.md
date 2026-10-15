@@ -1,5 +1,5 @@
 ## Overview
-_One or two lines: what Shift Report is, who it's for, current status._
+Aiming to define and measure KPIs for the factory lines, measure by shift and by SKU. Goal is to have a live view that shift managers and interested users can view live efficiency and KPI data. Weekly emails and monthly data to be set up.
 
 ## Links
 _Add repo / app link_
