@@ -42,13 +42,13 @@ See above
 ---
 
 **Week 1 objectives**
-- [ ] ==**HS** to export Ugo Sys GoodsIn, and go through by product and discern:==
+- ==**HS** to export Ugo Sys GoodsIn, and go through by product and discern:==
 	- UFG
 	- BBB
 	- Shared
 	- Classify packaging
-- [ ] **FU** to ask following people for:
-	- [ ] **Nico** -> Headcount for UFG / BBB / Shared
-	- [ ] **Lee** -> Electricity, Water & Gas
-	- [ ] **CU** -> Floorplan
-	- [ ] **Lorraine** -> Refrigerants info
+- **FU** to ask following people for:
+	- **Nico** -> Headcount for UFG / BBB / Shared
+	- **Lee** -> Electricity, Water & Gas
+	- **CU** -> Floorplan
+	- **Lorraine** -> Refrigerants info
