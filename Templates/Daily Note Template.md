@@ -1,8 +1,9 @@
-## Top 3 today
-<!-- Tag tasks: #HOPS #shift-report #sales-tracker #forecasting #carbon #admin -->
-- [ ] 
-- [ ] 
-- [ ] 
+## Focus
+<!-- Pick today's tasks by giving them ⏳ today's date. Write a new task below only if it doesn't exist yet. Tags: #HOPS #shift-report #sales-tracker #forecasting #carbon #admin -->
+```tasks
+not done
+scheduled on today
+```
 
 ## Due or overdue
 ```tasks
@@ -11,9 +12,8 @@ not done
 sort by due
 sort by priority
 group by tags
-hide toolbar
-hide task count
 ```
+
 ## Notes
 - 
 
