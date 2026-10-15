@@ -3,5 +3,8 @@
   "theme": "moonstone",
   "baseFontSizeAction": true,
   "translucency": false,
-  "accentColor": "#168108"
+  "accentColor": "#168108",
+  "enabledCssSnippets": [
+    "hide-query-header"
+  ]
 }

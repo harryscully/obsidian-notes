@@ -1,0 +1,26 @@
+.internal-query-header,
+.internal-query-header-title,
+.internal-query-header-icon {
+  display: none !important;
+}
+
+/* space between the heading and the results box */
+.block-language-query {
+  margin-top: 20px !important;
+}
+.internal-query {
+  margin-top: 20px !important;
+}
+
+/* remove the line along the top edge of the results box */
+.block-language-query,
+.internal-query,
+.internal-query .search-results-container,
+.internal-query .search-result-container {
+  border-top: none !important;
+  box-shadow: none !important;
+}
+.block-language-query hr,
+.internal-query hr {
+  display: none !important;
+}

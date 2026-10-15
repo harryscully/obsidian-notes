@@ -13,6 +13,7 @@ Personal Obsidian vault for work and project tracking. Plain markdown; edit with
 ## Conventions
 - Tasks use the Obsidian Tasks plugin format: `- [ ] text 📅 YYYY-MM-DD ⏳ YYYY-MM-DD 🔺/🔼` and `✅ date` when done. Preserve these emoji exactly.
 - **Task tags** (fixed list, one per task written in a daily note): `#HOPS`, `#shift-report`, `#sales-tracker`, `#forecasting`, `#carbon`, `#admin`. Tasks in project notes get their project from the file; each project hub has a `tasks` query on its tag. Flag misspelt, missing or unlisted tags in audits.
+- `tasks` query blocks: the Tasks plugin Global Query already applies `hide toolbar` and `hide task count`, so don't add them to new queries.
 - Link projects with `[[Name - Project]]`; link days with `[[YYYY-MM-DD]]`.
 - Project hub notes link to GitHub issues (e.g. `harryscully/hops-web#NNN`).
 
